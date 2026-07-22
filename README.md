@@ -1,0 +1,2 @@
+# Graph-Neural-Networks-for-Social-Network-Analysis-in-India-Detecting-Fake-Profiles-Botnets
+This study applies Graph Neural Networks (GNNs) to detect fake profiles and botnets in Indian social media. By modeling user interactions as graphs, GNNs capture complex relationships and identify suspicious behavior more effectively than traditional methods, improving cybersecurity, digital trust, and platform safety.
